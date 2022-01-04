@@ -45,3 +45,4 @@ def solution(n, data):
 
 if __name__ == '__main__':
     print(solution(5, ['R', 'R', 'R', 'U', 'D', 'D']))
+    
