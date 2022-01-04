@@ -35,5 +35,6 @@ def solution(n, data):
     return group
 
 
+
 if __name__ == '__main__':
     print(solution(5, [2, 3, 1, 2, 2]))
