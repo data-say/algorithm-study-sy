@@ -7,6 +7,6 @@
 |:---:|:-------------------:|:-----------:|:----------:|
 |1장  | [코딩테스트 출제경향 및 파이썬 부수기](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=1)  | 1회(12.20~12.26) |✅|
 |2장  | [그리디 & 구현](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) | 2회(12.27~01.09) |✅ |
-|3장  | [DFS & BFS](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) | 3회(01.10~01.16) | |
+|3장  | [DFS & BFS](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) | 3회(01.10~01.23) |✅ |
 
 [Notion 개념 정리 내용](https://leesaeyoon.notion.site/fc65ad81906c4724951d234644f8ef94)
