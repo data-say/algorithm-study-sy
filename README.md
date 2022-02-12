@@ -11,4 +11,4 @@
 |4장  | [정렬 알고리즘](https://github.com/LeeSaeyoon/algorithm-study-sy/wiki/4.-%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) | 4회(01.24~02.06) |✅ |
 |5장  | [이진 탐색](https://github.com/LeeSaeyoon/algorithm-study-sy/wiki/5.-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89) | 5회(02.07~02.13) | |
 
-[Notion 개념 정리 내용](https://leesaeyoon.notion.site/fc65ad81906c4724951d234644f8ef94)
+[Wiki 개념 정리 내용](https://github.com/LeeSaeyoon/algorithm-study-sy/wiki)
