@@ -12,5 +12,6 @@
 |5장  | [이진 탐색](https://github.com/data-say/algorithm-study-sy/wiki/5.-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89) | 5회(02.07~02.13) |✅ |
 |6장  | [다이나믹 프로그래밍](https://github.com/data-say/algorithm-study-sy/wiki/6.-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | 6회(02.14~02.27) |✅ |
 |7장  | [최단경로 알고리즘](https://github.com/data-say/algorithm-study-sy/wiki/7.-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) | 7회(02.28~03.13) | |
+|8장  | [] | 8회() | |
 
 [Wiki 개념 정리 내용](https://github.com/data-say//algorithm-study-sy/wiki)
