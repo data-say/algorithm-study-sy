@@ -13,7 +13,7 @@
 |6장  | [다이나믹 프로그래밍](https://github.com/data-say/algorithm-study-sy/wiki/6.-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | 6회(02.14~02.27) |✅ |
 |7장  | [최단경로 알고리즘](https://github.com/data-say/algorithm-study-sy/wiki/7.-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) | 7회(02.28~03.20) |✅ |
 |8장  | [그래프 이론](https://github.com/data-say/algorithm-study-sy/wiki/8.-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9D%B4%EB%A1%A0) | 8회(03.21~04.03) |✅ |
-|9장  | [기타 알고리즘](https://github.com/data-say/algorithm-study-sy/wiki/9.-%EA%B8%B0%ED%83%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) | 9회(04.04~04.10) | |
+|9장  | [기타 알고리즘](https://github.com/data-say/algorithm-study-sy/wiki/9.-%EA%B8%B0%ED%83%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) | 9회(04.04~04.24) | |
 
 
 [Wiki 개념 정리 내용](https://github.com/data-say//algorithm-study-sy/wiki)
